@@ -1,0 +1,20 @@
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\bin\Debug\VideoClubSegundaVez.exe.config
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\bin\Debug\VideoClubSegundaVez.exe
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\bin\Debug\VideoClubSegundaVez.pdb
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.Form1.resources
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.Properties.Resources.resources
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.exe
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.pdb
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\bin\Debug\VideoClubSegundaVez.exe.config
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\bin\Debug\VideoClubSegundaVez.exe
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\bin\Debug\VideoClubSegundaVez.pdb
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.Form1.resources
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.Properties.Resources.resources
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.exe
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\VideoClubSegundaVez\obj\Debug\VideoClubSegundaVez.pdb
