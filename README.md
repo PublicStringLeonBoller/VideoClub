@@ -1,0 +1,2 @@
+# VideoClub
+Formulario de insersion de datos incluyendo RadioButtons, DateTimePickers, ComboBoxes y Txt que permite registrar momentaneamente clientes que han alquilado peliculas y mostrar esa informacion en un MessageBox y a su vez sacar calculos de este registro como por ejemplo la cuenta de cuantas peliculas por genero se alquilan, recaudacion promedio, % de socios varones, cantidad de mujeres que alquilan peliculas de terror, alquiler mas caro.
